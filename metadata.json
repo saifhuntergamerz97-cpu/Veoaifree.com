@@ -1,0 +1,8 @@
+{
+  "name": "Astra AI Video Studio",
+  "description": "A high-end cinematic AI video creation tool leveraging Sora 2 and Veo 3 models for hyper-realistic and smooth dynamic motion video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
